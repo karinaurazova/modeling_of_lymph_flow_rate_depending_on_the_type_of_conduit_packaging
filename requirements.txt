@@ -1,0 +1,9 @@
+# Python requirements (for mesh generation)
+gmsh==4.11.1
+numpy==1.24.3
+
+# Julia requirements (for flow simulation)
+# Note: Julia packages should be installed via Julia's Pkg manager
+Gridap==0.17.15
+GridapGmsh==0.6.0
+Plots==1.38.6
